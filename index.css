@@ -1,0 +1,16 @@
+*{
+ background-color: rgb(55, 64, 83);
+ color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+#button {
+    background-color: rgb(66, 65, 65);
+    font: 12px;
+    font-style: bold;
+    color: black;
+    font-size: 19px;
+}
